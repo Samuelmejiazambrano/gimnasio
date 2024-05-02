@@ -1,6 +1,6 @@
 <template>
   <div id="rrr">
-    <h2 class="title">Lista de Inventario</h2>
+    <h2 class="title">Lista de ACTUALIZACION</h2>
     <div class="q-pa-md">
       <div class="q-pa-md q-gutter-sm">
         <div style="width: 120vh">
